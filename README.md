@@ -32,7 +32,7 @@ Prosta aplikacja konsolowa w Pythonie do zarządzania listą zadań. Projekt rea
 
 | Osoba | Rola |
 |---|---|
-| Konrad Zysk] | Kierownik projektu – repozytorium, koordynacja, przegląd i scalanie PR |
+| Konrad Zysk | Kierownik projektu – repozytorium, koordynacja, przegląd i scalanie PR |
 | Alan Stoppa | Członek zespołu – implementacja funkcji aplikacji |
 
 ## Zasady współpracy
