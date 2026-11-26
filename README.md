@@ -20,7 +20,7 @@ Prosta aplikacja konsolowa w Pythonie do zarządzania listą zadań. Projekt rea
 1. Zainstaluj Pythona 3.10 lub nowszego: https://www.python.org/downloads/
 2. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/NAZWA_UZYTKOWNIKA/lista-zadan.git
+   git clone https://github.com/konrad648/lista-zadan.git
    cd lista-zadan
    ```
 3. Uruchom aplikację:
@@ -32,8 +32,8 @@ Prosta aplikacja konsolowa w Pythonie do zarządzania listą zadań. Projekt rea
 
 | Osoba | Rola |
 |---|---|
-| [Twoje imię i nazwisko] | Kierownik projektu – repozytorium, koordynacja, przegląd i scalanie PR |
-| [Imię i nazwisko kolegi] | Członek zespołu – implementacja funkcji aplikacji |
+| Konrad Zysk] | Kierownik projektu – repozytorium, koordynacja, przegląd i scalanie PR |
+| Alan Stoppa | Członek zespołu – implementacja funkcji aplikacji |
 
 ## Zasady współpracy
 
